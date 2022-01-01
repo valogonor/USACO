@@ -1,3 +1,4 @@
+# Bronze Problem 1
 n = int(input())
 s = input()
 ans = 0
